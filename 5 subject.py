@@ -1,0 +1,11 @@
+m1 = int(input("Enter Maths mark: "))
+m2 = int(input("Enter Science mark: "))
+m3 = int(input("Enter English mark: "))
+m4 = int(input("Enter Tamil mark: "))
+m5 = int(input("Enter Computer mark: "))
+
+print("Maths :", m1)
+print("Science :", m2)
+print("English :", m3)
+print("Tamil :", m4)
+print("Computer :", m5)
